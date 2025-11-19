@@ -8,7 +8,7 @@
 
 ### 以下是 AI 輔助日誌
 
-幾個比較關鍵的 Prompts
+幾個比較關鍵的 Prompts   以此來詢問
 
 
 ### Next.js + Supabase 一個完整 CRUD 留言板 的 大致邏輯與結構
